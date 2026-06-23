@@ -1,9 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/pawlenartowicz/pawlenartowicz.r-universe.dev
+	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "mcpower"]
-	path = mcpower
-	url = https://github.com/pawlenartowicz/mcpower
-	branch = main
-	subdir = ports/r
+[submodule "inough"]
+	path = inough
+	url = https://github.com/pawlenartowicz/inough
