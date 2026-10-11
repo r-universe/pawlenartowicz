@@ -6,3 +6,7 @@
 	path = fastglmm
 	url = https://github.com/pawlenartowicz/GLMM
 	branch = r-universe
+[submodule "plskit"]
+	path = plskit
+	url = https://github.com/pawlenartowicz/plskit
+	branch = r-universe
