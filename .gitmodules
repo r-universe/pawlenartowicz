@@ -10,3 +10,6 @@
 	path = plskit
 	url = https://github.com/pawlenartowicz/plskit
 	branch = r-universe
+[submodule "ssdiff"]
+	path = ssdiff
+	url = https://github.com/pawlenartowicz/ssdiff-r
